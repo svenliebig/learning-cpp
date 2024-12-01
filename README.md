@@ -24,3 +24,7 @@ THINGS TO CONSIDER:
 - Structure the course in sub topics that can be refered to later
 - Create the course interactive, after every session you have a predefined set of commands: EXPLAIN: <text>, ISSUE: <text> or NEXT. EXPLAIN will let me ask you specifics about the current session, ISSUE will let me debug issues that I encounter during the session with you, and when NEXT is triggered, you give me a summary of everything that I should know after the current session, and you ask me "Do you want to continue" in the end, when I answer with YES, we continue to the next session, when I answer with NO <text> we go back to the topics of the session that I still don't understand
 ```
+
+## Setup
+
+Both AI's ignored an Editor setup. Here's one for nvim: https://www.youtube.com/watch?v=lsFoZIg-oDs
